@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+alembic
+aiofiles
+python-multipart
+jinja2
